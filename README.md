@@ -49,7 +49,7 @@ O código completo e comentado está em [`delinquency_analysis.sql`](delinquency
 
 ## Resultados
 
-<!-- Substitua pelos nomes reais dos seus arquivos de imagem -->
+
 ![Capa](imagens/01-capa.png)
 
 ### 1. A taxa geral é de 18,1%
@@ -130,4 +130,4 @@ Analysis of a 5,000-contract loan portfolio to locate where delinquency concentr
 
 ---
 
-**Matheus Mucci Sanchez** · [LinkedIn](#) · [Outros projetos](#)
+**Matheus Mucci Sanchez** · [LinkedIn](https://github.com/matheussanchezsabbath-maker) · [Outros projetos](https://github.com/matheussanchezsabbath-maker)
